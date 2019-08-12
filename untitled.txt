@@ -1,0 +1,20 @@
+Principais tags html
+
+-> "TAGS" sao elementos que serao interpretados pelo Navegador do usuario 
+sao presentetadas da seguinte forma
+
+ex: abertura de uma tag '<nomedatag>' 
+    fechamento de uma tag'</nomedatag>'
+    
+
+    
+A TAG HTML
+
+    Abertura: <html>, fechamento </html>
+    
+OBS: As tags podem conter atributos adicionais, para modificar oiu acrescentar algo ao seu comportamento
+
+exemplo com a tag html
+ex: <html lang="pt-br"> </html>
+
+Veja que o atributo ' lang="pt-br" ' foi adicionado dentro da tag, informando ao navegador que ira interpretar o documente, que esse e um documento do tipo html contendo textos na linguagem portugues do brasil
